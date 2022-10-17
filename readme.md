@@ -1,6 +1,5 @@
-# Synapsica Assignment
+# Vertibral Canal keypoint detection
 Prepared By: Jay Pratap \\
-Date of Submission: September 23, 2022
 
 
 ## Content
