@@ -1,0 +1,14 @@
+---
+DATA_ZIP_PATH: "assignment_dataset.zip"
+MAIN_DIR: "synap_main_dir"
+WORKING_DIR: "synap_working_dir"
+REFERENCE_FEATURE_PATH: "reference_features"
+REFERENCE_START_POINT_FEATURE_PATH: "reference_features/start_point_features.npy"
+REFERENCE_END_POINT_FEATURE_PATH: "reference_features/end_point_features.npy"
+OUTPUT_FILE_PATH: "output/output1.csv"
+HAMMING_DISTANCE_THRESHOLD: 140
+EUCLIDEAN_DISTANCE_MAX_THRESHOLD: 400
+EUCLIDEAN_DISTANCE_MIN_THRESHOLD: 300
+PAIR_DISTANCE_MIN_THRESHOLD: 15
+PAIR_DISTANCE_MAX_THRESHOLD: 23 #25
+PAIR_ALIGNMENT_THRESHOLD: 8 #number of pixels for which off alignment allowed
