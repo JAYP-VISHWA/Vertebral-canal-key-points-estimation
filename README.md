@@ -1,6 +1,4 @@
 # Vertibral Canal keypoint detection
-Prepared By: Jay Pratap \\
-
 
 ## Content
 
